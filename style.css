@@ -1,0 +1,20 @@
+body{
+    color: blue;
+    background-color: burlywood;
+}
+
+.heading{
+    font-family: 'Lobster', cursive;
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 4px dashed red;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects , #result_object_name , #reseult_object_accuracy{
+color: black;
+}
